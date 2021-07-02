@@ -2,7 +2,7 @@
   "apiVersion": "v1",
   "kind": "Namespace",
   "metadata": {
-    "name": "development",
+    "name": "development-team",
     "labels": {
       "name": "development"
     }
